@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "classnames": "^2.3.2",
+    "immutable": "^4.3.0",
+    "lodash": "^4.17.21",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-table": "^7.8.0",
+    "react-virtualized": "^9.22.3",
+    "swr": "^2.1.1",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.10",
+    "@types/react": "18.0.29"
+  }
+}
